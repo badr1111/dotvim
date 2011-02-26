@@ -7,3 +7,6 @@
 [submodule "bundle/xml"]
 	path = bundle/xml
 	url = https://github.com/othree/xml.vim.git
+[submodule "bundle/vcscommand"]
+	path = bundle/vcscommand
+	url = http://repo.or.cz/r/vcscommand.git
