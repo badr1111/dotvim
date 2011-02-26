@@ -10,3 +10,6 @@
 [submodule "bundle/vcscommand"]
 	path = bundle/vcscommand
 	url = http://repo.or.cz/r/vcscommand.git
+[submodule "bundle/omnicppcomplete"]
+	path = bundle/omnicppcomplete
+	url = https://github.com/MasterKey/OmniCppComplete.git
